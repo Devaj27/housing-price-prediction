@@ -9,7 +9,7 @@ Machine Learning project for predicting housing prices using Python and Scikit-l
 * Feature scaling
 * Pipeline creation
 * Model training
-* RMSE / MAE evaluation
+* Model evaluation using RMSE and MAE
 * Housing price prediction
 
 ## Tech Stack
